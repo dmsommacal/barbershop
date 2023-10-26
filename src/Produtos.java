@@ -4,4 +4,5 @@ public class Produtos extends Itens{
     private Integer quantidade;
     private String marca;
     private LocalDate validade;
+    private Integer tamanho;
 }

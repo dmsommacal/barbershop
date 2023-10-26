@@ -4,5 +4,5 @@ public class Barbeiro extends Pessoa{
 
     private Double comissao;
     private String descricaoBarbeiro;
-    private Integer codigo;
+
 }
